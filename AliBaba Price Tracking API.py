@@ -70,8 +70,8 @@ def send_mail():
   body="check out the AliBaba product link https://www.alibaba.com/product-detail/Newest-Nepal-copper-beads-Tibetan-inlay_62035851052 for the jewelery"
   msg=f"Subject:{subject}\n \n {body}"
   server.sendmail(
-      "dhakhwaros073@gmail.com",
-      "sujansharma202@gmail.com",
+      "dhakhwa@gmail.com",
+      "a202@gmail.com",
 
       msg
       )
