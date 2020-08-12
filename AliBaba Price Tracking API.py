@@ -65,7 +65,7 @@ def send_mail():
   server.ehlo()
   server.starttls()
   server.ehlo()
-  server.login('dhakhwaanusha@gmail.com',"dhakhwa9818116303")
+  server.login('example@gmail.com',"dhjkwdrta987654321")
   subject="Price of the Jewelery"
   body="check out the AliBaba product link https://www.alibaba.com/product-detail/Newest-Nepal-copper-beads-Tibetan-inlay_62035851052 for the jewelery"
   msg=f"Subject:{subject}\n \n {body}"
