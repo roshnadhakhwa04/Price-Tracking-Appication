@@ -75,11 +75,11 @@ def send_mail():
 
       msg
       )
-  print("mail send")
+  print("mail sent")
   server.quit()
 
 if (s1=='6.50'):# this program can be used to send email when the price goes down but since we cant control the price down so we are using this program to check if the first price is equal to 6.50 or not
-  print ('yes')
+  pass
 
 if (s1=='6.50'):
   send_mail()
